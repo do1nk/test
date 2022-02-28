@@ -7,4 +7,7 @@ test
 Add line
 new branch line
 new line for Gui
+<<<<<<< HEAD
 
+=======
+>>>>>>> d2eca9b36c88447fb81c1b5271db90d9a9d4b412
